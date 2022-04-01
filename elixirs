@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Our Elixirs</title>
+    </head>
+    <body>
+        <h1>Welcome to the Head First Lounge</h1>
+        <h2>Green Tea Cooler</h2>
+        <p>
+           <image src="../images/green.gif">
+           Chock full of vitamins and minerals, this elixir combines the healthful benefits of green tea with a twist of chamomile blossoms and ginger root.
+        </p>
+        <h3>Raspberry Ice Concentration</h3>
+        <p>
+           <image src="../images/blue.gif">
+           Chock full of vitamins and minerals, this elixir combines the healthful benefits of green tea with a twist of chamomile blossoms and ginger root.
+        </p>
+        <h4>Blueberry Bliss Elixir</h4>
+        <p>
+           <image src="../images/lightblue.gif">
+           Blueberries and cherry essence mixed into a base of elderflower herb tea will put you in a relaxed state of bliss in no time.
+        </p>
+        <h5>Cranberry Antioxidant Blast</h5>
+        <p>
+           <image src="../images/red.gif">
+           Wake up to the flavors of cranberry and hibiscus in this vitamin C rich elixir.
+        </p>
+        <p>
+           <a href="../lounge.html">Back to the Lounge</a>
+        </p>
+    </body>
+</html>
