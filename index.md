@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎欢迎，热烈欢迎！
 
 You can use the [editor on GitHub](https://github.com/mawenyaRia/mawenyaRia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
